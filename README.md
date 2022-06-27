@@ -18,6 +18,7 @@ Casing | Tecware Nexus Air M2
 - Apple Music Dolby Atmos, loseless and live radio not working.(Need SMBIOS iMac Pro 1,1, but it will disable IGPU hardware acceleration)
 - Ps/2 port not working
 - Apple TV app not working (due to the DRM issue, can fix by adding a graphic card).
+- Apple Music not working when the AirPods Pro connected.
 
 # Fixed
 - ~~HDMI Audio Output.~~ (fixed by patching the BusID)
@@ -25,9 +26,9 @@ Casing | Tecware Nexus Air M2
 - ~~Sleep sometime will not able to wake.~~ (Fixed after updated to Big Sur)
 - ~~screen glitch on log in screen.~~ (Fixed by turn off hdmi compatible setting on monitor)
 
-# Opencore 0.7.5 + macOS Monterey Version 12.0.1
+# Opencore 0.7.5 + macOS Monterey Version 12.4
 * Opencore 0.7.5: [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-* macOS Monterey Version 12.0.1
+* macOS Monterey Version 12.4
 
 # Replace the PlatformInfo
 replace this part to your build.

@@ -1,6 +1,6 @@
 # Asrock-B460M-Pro4-Hackintosh
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7815XY)
+# **No Longer using Hackintosh**
 
 The objective is to build a video editing and coding Hackintosh. Build must be able to use Airdrop, Continuity, Handoff and Airpods Pro seamlessly.
 
